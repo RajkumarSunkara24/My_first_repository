@@ -1,2 +1,4 @@
-# My_first_repository
-Learning Github with DevOps
+a=10
+b=20
+c=30
+print(a+b+c)
